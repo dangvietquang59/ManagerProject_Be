@@ -1,0 +1,8 @@
+### API Đăng ký
+POST http://localhost:5182/api/auth/login
+Content-Type: application/json
+
+{
+    "Email": "test@gmail.com",
+    "Password": "123456"
+}

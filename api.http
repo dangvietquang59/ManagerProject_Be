@@ -1,0 +1,9 @@
+### API Đăng ký
+GET http://localhost:5182/api/auth/login
+Content-Type: application/json
+
+{
+    "Fullname":"Đặng Việt Quang",
+    "Email": "dvquang5902@gmail.com",
+    "Password": "123456"
+}
