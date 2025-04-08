@@ -42,7 +42,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy(corsPolicyName, policy =>
     {
-        policy.WithOrigins("http://localhost:3000") // Thay URL này bằng domain của Next.js
+        policy.WithOrigins("http://localhost:3000","https://manager-project-chi.vercel.app") // Thay URL này bằng domain của Next.js
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials(); // Quan trọng nếu dùng JWT hoặc cookies

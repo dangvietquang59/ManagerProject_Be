@@ -168,3 +168,4 @@ D:\managerProject\manager_project_be\bin\Debug\net9.0\runtimes\win\lib\net6.0\Sy
 D:\managerProject\manager_project_be\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\managerProject\manager_project_be\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\managerProject\manager_project_be\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\managerProject\manager_project_be\obj\Debug\net9.0\manager_project_be.sourcelink.json

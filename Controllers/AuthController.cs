@@ -43,7 +43,7 @@ public class AuthController : ControllerBase
             FullName = request.FullName,
             Email = request.Email,
             PasswordHash = hashedPassword,
-            RoleID = 2 // Mặc định role user
+            RoleID = 2
         };
 
         _context.Users.Add(user);
